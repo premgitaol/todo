@@ -29,6 +29,7 @@
    * completed    : 1 (True) or 0 (False) to indicate completed or not
    * created_at   : Create date/timestamp
    * updated_at	  : Update date/timestamp
+* Mysql dump present in todo.sql
 
 ## Base Application Functionality completed
 * On initial load, the todo list should be blank : done
